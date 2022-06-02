@@ -1,0 +1,6 @@
+flask
+redis
+postgres
+pymysql
+PyMySQL
+Flask-MySQLdb
